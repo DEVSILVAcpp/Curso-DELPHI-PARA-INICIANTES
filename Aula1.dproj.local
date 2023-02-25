@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/24 19:49:39.000.471,=C:\Users\josia\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/24 21:03:07.000.514,C:\Users\josia\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\josia\OneDrive\Documentos\Embarcadero\Studio\Projects\Aula1.dproj</Transaction>
+    <Transaction>2023/02/24 21:06:50.000.336,C:\Users\josia\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\josia\OneDrive\Documentos\GitHub\Curso-DELPHI-PARA-INICIANTES\Aula.dfm</Transaction>
+    <Transaction>2023/02/24 21:06:50.000.336,C:\Users\josia\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\josia\OneDrive\Documentos\GitHub\Curso-DELPHI-PARA-INICIANTES\Aula.pas</Transaction>
+    <Transaction>2023/02/24 21:07:38.000.126,C:\Users\josia\OneDrive\Documentos\Embarcadero\Studio\Projects\Aula1.dproj=C:\Users\josia\OneDrive\Documentos\GitHub\Curso-DELPHI-PARA-INICIANTES\Aula1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
